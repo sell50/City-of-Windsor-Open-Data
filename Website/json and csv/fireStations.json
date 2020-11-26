@@ -1,0 +1,51 @@
+[
+  {
+    "FID": 0,
+    "ADDRESS": "815 Goyeau St",
+    "FIRE_HALL": "Fire Hall #1",
+    "X": -83.0334707359,
+    "Y": 42.3118656218
+  },
+  {
+    "FID": 1,
+    "ADDRESS": "3121 Milloy St",
+    "FIRE_HALL": "Fire Hall #2",
+    "X": -82.9869316883,
+    "Y": 42.3068574912
+  },
+  {
+    "FID": 2,
+    "ADDRESS": "2650 Northwood St",
+    "FIRE_HALL": "Fire Hall #5",
+    "X": -83.0491384623,
+    "Y": 42.2762796951
+  },
+  {
+    "FID": 3,
+    "ADDRESS": "2750 Ouellette Ave",
+    "FIRE_HALL": "Fire Hall #3",
+    "X": -83.0156976202,
+    "Y": 42.2821369617
+  },
+  {
+    "FID": 4,
+    "ADDRESS": "2600 College Ave",
+    "FIRE_HALL": "Fire Hall #4",
+    "X": -83.0628378772,
+    "Y": 42.2999231242
+  },
+  {
+    "FID": 5,
+    "ADDRESS": "1380 Matthew Brady Blvd",
+    "FIRE_HALL": "Fire Hall #7",
+    "X": -82.9386634271,
+    "Y": 42.3215477936
+  },
+  {
+    "FID": 6,
+    "ADDRESS": "1587 Provincial Rd",
+    "FIRE_HALL": "Fire Hall #6",
+    "X": -82.9773143693,
+    "Y": 42.2575378353
+  }
+]

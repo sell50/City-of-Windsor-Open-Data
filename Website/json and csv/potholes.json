@@ -1,0 +1,5222 @@
+[
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 16, 2020 02:17:55 PM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & RANKIN AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 04:48:58 PM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & TECUMSEH RD E",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 12, 2020 02:28:30 PM",
+    "Block/Address": "",
+    "Street": "SANDWICH ST & BROCK ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 13, 2020 02:03:49 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & WESTCOTT RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 24, 2020 11:45:58 AM",
+    "Block/Address": "",
+    "Street": "BEVERLY GLEN ST & PEABODY AVE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 24, 2020 12:55:20 PM",
+    "Block/Address": "2##",
+    "Street": "STRABANE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 24, 2020 02:15:51 PM",
+    "Block/Address": "39##",
+    "Street": "BYNG",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 25, 2020 01:07:41 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 12, 2020 09:59:07 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 13, 2020 12:21:58 PM",
+    "Block/Address": "19##",
+    "Street": "BERNARD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 11, 2020 02:40:08 PM",
+    "Block/Address": "31##",
+    "Street": "MULBERRY",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 12, 2020 02:03:12 PM",
+    "Block/Address": "",
+    "Street": "OLIVE RD & EMPRESS ST",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 12, 2020 10:16:03 AM",
+    "Block/Address": "17##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 16, 2020 09:25:07 AM",
+    "Block/Address": "11##",
+    "Street": "CABANA",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 16, 2020 11:50:27 AM",
+    "Block/Address": "",
+    "Street": "LITTLE RIVER BLVD & CLOVER AVE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 16, 2020 01:12:07 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 31, 2020 09:20:20 AM",
+    "Block/Address": "3##",
+    "Street": "TUSCARORA",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 31, 2020 11:50:08 AM",
+    "Block/Address": "69##",
+    "Street": "CANTELON",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 31, 2020 11:50:12 AM",
+    "Block/Address": "",
+    "Street": "ST MARY'S BLVD & WYANDOTTE ST E",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 31, 2020 12:46:24 PM",
+    "Block/Address": "",
+    "Street": "LINCOLN RD & ONTARIO ST",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 24, 2020 10:27:31 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 25, 2020 10:54:25 AM",
+    "Block/Address": "15##",
+    "Street": "SOUTH PACIFIC",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 01, 2020 08:35:34 AM",
+    "Block/Address": "",
+    "Street": "SYDNEY AVE & DIVISION RD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 30, 2020 08:54:49 AM",
+    "Block/Address": "13##",
+    "Street": "JOSEPHINE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 08:33:05 AM",
+    "Block/Address": "",
+    "Street": "HANNA ST E & MERCER ST",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 05, 2020 11:55:41 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 01:12:28 PM",
+    "Block/Address": "",
+    "Street": "CAPITOL ST & LILLIAN AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:47:50 PM",
+    "Block/Address": "14##",
+    "Street": "EVERTS",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 06, 2020 09:58:17 AM",
+    "Block/Address": "",
+    "Street": "DONNELLY ST & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 11:44:53 AM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & MCKAY AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 03:02:26 PM",
+    "Block/Address": "",
+    "Street": "ROSE ST & JEFFERSON BLVD",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 19, 2020 04:11:07 PM",
+    "Block/Address": "14##",
+    "Street": "BRUCE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 20, 2020 01:27:56 PM",
+    "Block/Address": "",
+    "Street": "DOUGALL AVE & CABANA RD W",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 20, 2020 01:50:24 PM",
+    "Block/Address": "3##",
+    "Street": "CHAPPELL",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 20, 2020 04:45:51 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 16, 2020 02:37:19 PM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & EC ROW EXPY E",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 18, 2020 10:49:16 AM",
+    "Block/Address": "",
+    "Street": "BANWELL RD & MULBERRY DR",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 18, 2020 11:08:00 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 20, 2020 08:30:30 AM",
+    "Block/Address": "48##",
+    "Street": "8TH CON",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Text",
+    "Created Date": "MAR 20, 2020 10:37:40 AM",
+    "Block/Address": "9444##",
+    "Street": "EC ROW ON",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Text",
+    "Created Date": "MAR 20, 2020 10:40:50 AM",
+    "Block/Address": "18##",
+    "Street": "PROVINCIAL",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 24, 2020 11:50:51 AM",
+    "Block/Address": "18##",
+    "Street": "HICKORY",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 20, 2020 04:47:31 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 13, 2020 02:37:31 PM",
+    "Block/Address": "56##",
+    "Street": "RIVERSIDE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 04:29:36 PM",
+    "Block/Address": "56##",
+    "Street": "OJIBWAY",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 08:46:16 AM",
+    "Block/Address": "",
+    "Street": "YORK ST & HANNA ST W",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 09:04:08 AM",
+    "Block/Address": "3##",
+    "Street": "TUSCARORA",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 11:06:14 AM",
+    "Block/Address": "3##",
+    "Street": "RIVERSIDE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 12:45:21 PM",
+    "Block/Address": "6##",
+    "Street": "CAPITOL",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 01:17:45 PM",
+    "Block/Address": "4##",
+    "Street": "LINCOLN",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 31, 2020 01:19:02 PM",
+    "Block/Address": "2##",
+    "Street": "HILL",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 01, 2020 09:39:33 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 01, 2020 09:40:52 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 07, 2020 04:05:14 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 09, 2020 10:21:07 AM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 09, 2020 01:43:18 PM",
+    "Block/Address": "",
+    "Street": "OUELLETTE AVE & TECUMSEH RD E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 09, 2020 06:57:43 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 27, 2020 10:37:27 AM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & ST LUKE RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 19, 2020 06:56:55 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 19, 2020 06:58:21 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 14, 2020 09:25:02 AM",
+    "Block/Address": "17##",
+    "Street": "CADILLAC",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 14, 2020 12:16:09 PM",
+    "Block/Address": "",
+    "Street": "MEIGHEN RD & YPRES AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 14, 2020 12:23:04 PM",
+    "Block/Address": "2##",
+    "Street": "JOSEPHINE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 14, 2020 03:22:10 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & BANWELL RD",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 14, 2020 04:42:35 PM",
+    "Block/Address": "38##",
+    "Street": "REGINALD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 09:13:10 AM",
+    "Block/Address": "",
+    "Street": "LITTLE RIVER BLVD & CLOVER AVE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 11:07:33 AM",
+    "Block/Address": "35##",
+    "Street": "AVONDALE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 11:32:34 AM",
+    "Block/Address": "",
+    "Street": "ACADEMY DR & NORFOLK ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 15, 2020 11:51:20 AM",
+    "Block/Address": "4##",
+    "Street": "SOUTH",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 15, 2020 11:51:42 AM",
+    "Block/Address": "",
+    "Street": "MILL ST & SANDWICH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 15, 2020 12:15:31 PM",
+    "Block/Address": "32##",
+    "Street": "SANDWICH",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 15, 2020 02:00:58 PM",
+    "Block/Address": "",
+    "Street": "CARMICHAEL RD & PRINCE RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 27, 2020 03:48:53 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 09:52:52 AM",
+    "Block/Address": "17##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 10:17:06 AM",
+    "Block/Address": "15##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 01:45:52 PM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & SEMINOLE ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 29, 2020 08:53:35 AM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & GUY ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 29, 2020 02:25:11 PM",
+    "Block/Address": "",
+    "Street": "OTTAWA ST & WALKER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 29, 2020 03:32:03 PM",
+    "Block/Address": "",
+    "Street": "HOLBURN ST & SIXTH CONCESSION RD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 29, 2020 03:53:46 PM",
+    "Block/Address": "",
+    "Street": "EMPRESS ST & FERNDALE AVE",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 29, 2020 04:02:49 PM",
+    "Block/Address": "",
+    "Street": "GRAND MARAIS RD E & BERNARD RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 10, 2020 12:59:03 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 10:20:12 AM",
+    "Block/Address": "14##",
+    "Street": "EVERTS",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 09, 2020 03:59:45 PM",
+    "Block/Address": "",
+    "Street": "CHANDLER RD & ST JULIEN AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 11:09:44 AM",
+    "Block/Address": "",
+    "Street": "ST JULIEN AVE & CHANDLER RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 09, 2020 01:20:54 PM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & EC ROW OFF RAMP W",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 20, 2020 03:43:57 PM",
+    "Block/Address": "22##",
+    "Street": "CHILVER",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 21, 2020 01:05:28 PM",
+    "Block/Address": "",
+    "Street": "MOXLAY AVE & WOODWARD BLVD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 09, 2020 02:37:21 PM",
+    "Block/Address": "9888##",
+    "Street": "EC ROW ON",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 24, 2020 02:17:59 PM",
+    "Block/Address": "44##",
+    "Street": "HOWARD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 27, 2020 03:39:49 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NORTH TALBOT RD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 19, 2020 06:59:37 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 25, 2020 10:26:07 AM",
+    "Block/Address": "30##",
+    "Street": "MORRIS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:51:01 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:51:52 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:52:59 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:53:40 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 27, 2020 11:59:42 AM",
+    "Block/Address": "21##",
+    "Street": "HURON CHURCH",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 10:10:01 AM",
+    "Block/Address": "17##",
+    "Street": "ROONEY",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 04, 2020 05:50:17 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 05, 2020 12:04:10 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 05, 2020 02:07:31 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:11:40 PM",
+    "Block/Address": "",
+    "Street": "GIRARDOT ST & DOT AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 09, 2020 08:43:14 AM",
+    "Block/Address": "9##",
+    "Street": "VILLAIRE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 09, 2020 09:44:12 AM",
+    "Block/Address": "",
+    "Street": "MONTROSE ST & OUELLETTE AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 09, 2020 03:43:41 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 09, 2020 03:44:36 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 09, 2020 03:45:26 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 10:41:52 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 10, 2020 10:44:12 AM",
+    "Block/Address": "9##",
+    "Street": "FELIX",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 12:24:37 PM",
+    "Block/Address": "",
+    "Street": "WYANDOTTE ST W & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 06, 2020 08:23:10 AM",
+    "Block/Address": "9##",
+    "Street": "ALBERT",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 06, 2020 11:28:18 AM",
+    "Block/Address": "3##",
+    "Street": "INDIAN",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 06, 2020 11:30:29 AM",
+    "Block/Address": "",
+    "Street": "INDIAN RD & PETER ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 06, 2020 01:36:20 PM",
+    "Block/Address": "78##",
+    "Street": "CEDARVIEW",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 24, 2020 09:41:51 AM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & EC ROW OFF RAMP E",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 12, 2020 02:32:03 PM",
+    "Block/Address": "",
+    "Street": "WATKINS ST & SANDWICH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 12:18:52 PM",
+    "Block/Address": "38##",
+    "Street": "HOWARD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 12:20:10 PM",
+    "Block/Address": "8##",
+    "Street": "ELLROSE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 04:01:50 PM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 04:43:05 PM",
+    "Block/Address": "19##",
+    "Street": "JEFFERSON",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 11:25:38 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 11:48:28 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 27, 2020 03:30:05 PM",
+    "Block/Address": "3##",
+    "Street": "LINCOLN",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 10, 2020 09:21:37 AM",
+    "Block/Address": "",
+    "Street": "FOSTER AVE & WALKER RD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 08:23:48 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & HOWARD AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 09:55:19 AM",
+    "Block/Address": "14##",
+    "Street": "YPRES",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 03:12:37 PM",
+    "Block/Address": "34##",
+    "Street": "SANDWICH",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Text",
+    "Created Date": "FEB 14, 2020 10:08:08 AM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & GRAND MARAIS RD W",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 14, 2020 10:16:03 AM",
+    "Block/Address": "9888##",
+    "Street": "EC ROW ON",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 12:53:33 PM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 16, 2020 08:11:30 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 11, 2020 02:44:57 PM",
+    "Block/Address": "",
+    "Street": "BROCK ST & SANDWICH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 11, 2020 02:45:47 PM",
+    "Block/Address": "",
+    "Street": "COLLEGE AVE & FELIX AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 11, 2020 02:51:59 PM",
+    "Block/Address": "7##",
+    "Street": "PRINCE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 11, 2020 02:53:11 PM",
+    "Block/Address": "",
+    "Street": "SOUTH ST & RUSSELL ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 12:21:47 PM",
+    "Block/Address": "",
+    "Street": "EC ROW EXPY E & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 08, 2020 09:13:47 AM",
+    "Block/Address": "",
+    "Street": "OTTAWA ST & LINCOLN RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 09:34:39 AM",
+    "Block/Address": "22##",
+    "Street": "CLOVER",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 09:34:43 AM",
+    "Block/Address": "",
+    "Street": "CLOVER AVE & MCHUGH ST",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 01, 2020 10:16:14 AM",
+    "Block/Address": "",
+    "Street": "STRABANE AVE & WYANDOTTE ST E",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 11:42:36 AM",
+    "Block/Address": "95##",
+    "Street": "RIVERSIDE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 12:18:10 PM",
+    "Block/Address": "31##",
+    "Street": "EVERTS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 02:47:28 PM",
+    "Block/Address": "",
+    "Street": "OUELLETTE AVE & SHEPHERD ST W",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 02:47:33 PM",
+    "Block/Address": "",
+    "Street": "OUELLETTE AVE & SHEPHERD ST E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 01, 2020 03:56:13 PM",
+    "Block/Address": "",
+    "Street": "OUELLETTE AVE & HANNA ST E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAY 04, 2020 09:01:12 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 04, 2020 10:18:24 AM",
+    "Block/Address": "7##",
+    "Street": "GRAND MARAIS",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 16, 2020 04:25:59 PM",
+    "Block/Address": "8##",
+    "Street": "HURON CHURCH",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 22, 2020 09:10:01 AM",
+    "Block/Address": "",
+    "Street": "GILES BLVD E & PARENT AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 22, 2020 09:50:41 AM",
+    "Block/Address": "",
+    "Street": "YPRES AVE & TURNER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 22, 2020 10:54:30 AM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 11:39:01 AM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & ESDRAS AVE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 13, 2020 12:58:09 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 13, 2020 12:59:14 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 13, 2020 01:00:35 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 13, 2020 01:02:56 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 13, 2020 01:10:05 PM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & MCEWAN AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 01:12:18 PM",
+    "Block/Address": "",
+    "Street": "MCHUGH ST & FLORENCE AVE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 04:31:33 PM",
+    "Block/Address": "8##",
+    "Street": "GRAND MARAIS",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 04:33:35 PM",
+    "Block/Address": "5##",
+    "Street": "GRAND MARAIS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 04:35:45 PM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & LABELLE ST",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 09:54:11 AM",
+    "Block/Address": "43##",
+    "Street": "HOWARD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:01:42 AM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 11, 2020 10:39:20 AM",
+    "Block/Address": "",
+    "Street": "GOYEAU ST & ERIE ST E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 08:19:35 AM",
+    "Block/Address": "",
+    "Street": "WOODLAWN AVE & EC ROW AVE E",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 09:10:34 AM",
+    "Block/Address": "",
+    "Street": "RANDOLPH PL & RIVERSIDE DR W",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 09:11:28 AM",
+    "Block/Address": "",
+    "Street": "ASKIN AVE & UNIVERSITY AVE W",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 12, 2020 12:12:58 PM",
+    "Block/Address": "",
+    "Street": "YPRES AVE & WOODLAWN AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 01:15:07 PM",
+    "Block/Address": "",
+    "Street": "TRANBY AVE & VIRGINIA AVE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 08:46:31 AM",
+    "Block/Address": "",
+    "Street": "WOODLAWN AVE & EC ROW AVE E",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 08:50:58 AM",
+    "Block/Address": "",
+    "Street": "WOODLAWN AVE & EC ROW AVE E",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 10:00:30 AM",
+    "Block/Address": "",
+    "Street": "CAMPBELL AVE & PELLETIER ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 23, 2020 01:47:38 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 27, 2020 02:20:11 PM",
+    "Block/Address": "",
+    "Street": "RADISSON AVE & NORFOLK ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 29, 2020 12:29:41 PM",
+    "Block/Address": "11##",
+    "Street": "GARDEN COURT",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 08, 2020 09:59:19 AM",
+    "Block/Address": "",
+    "Street": "PELLETIER ST & PARTINGTON AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 02, 2020 04:20:24 PM",
+    "Block/Address": "5##",
+    "Street": "ELINOR",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 06, 2020 10:06:21 AM",
+    "Block/Address": "",
+    "Street": "LAUZON LINE & LAUZON PKY",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 06, 2020 02:13:29 PM",
+    "Block/Address": "",
+    "Street": "MILL ST & RUSSELL ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 06, 2020 03:55:42 PM",
+    "Block/Address": "",
+    "Street": "MENARD ST & ISACK DR",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 22, 2020 10:55:50 AM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 22, 2020 10:57:30 AM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 22, 2020 10:58:27 AM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 19, 2020 10:12:09 AM",
+    "Block/Address": "",
+    "Street": "LANGLOIS AVE & OTTAWA ST",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 19, 2020 01:46:34 PM",
+    "Block/Address": "",
+    "Street": "MARENTETTE AVE & SYDNEY AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 21, 2020 09:39:59 AM",
+    "Block/Address": "",
+    "Street": "WALKER RD & LEDYARD AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 24, 2020 09:21:20 AM",
+    "Block/Address": "16##",
+    "Street": "YPRES",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 01:53:21 PM",
+    "Block/Address": "16##",
+    "Street": "CHAPPUS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 24, 2020 09:23:14 AM",
+    "Block/Address": "11##",
+    "Street": "YPRES",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 24, 2020 11:24:44 AM",
+    "Block/Address": "",
+    "Street": "SANDWICH ST & SOUTH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 24, 2020 01:22:36 PM",
+    "Block/Address": "16##",
+    "Street": "YPRES",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:49:00 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAY 05, 2020 08:39:17 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 25, 2020 01:49:41 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 26, 2020 10:36:38 AM",
+    "Block/Address": "",
+    "Street": "SEVILLE AVE & MULBERRY DR",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 27, 2020 03:46:47 PM",
+    "Block/Address": "38##",
+    "Street": "MATCHETTE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 28, 2020 03:51:49 PM",
+    "Block/Address": "19##",
+    "Street": "BERNARD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:35:12 AM",
+    "Block/Address": "31##",
+    "Street": "CLEMENCEAU",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 11:15:17 AM",
+    "Block/Address": "71##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 11:22:20 AM",
+    "Block/Address": "1##",
+    "Street": "CAMERON",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 11:24:37 AM",
+    "Block/Address": "117##",
+    "Street": "RIVERSIDE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 01:14:23 PM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & LAURENDEAU AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 01:30:04 PM",
+    "Block/Address": "27##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 01:36:26 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 03:44:03 PM",
+    "Block/Address": "71##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:52:43 AM",
+    "Block/Address": "19##",
+    "Street": "BERNARD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 04:51:05 PM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 10:18:55 AM",
+    "Block/Address": "17##",
+    "Street": "EVERTS",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 11:54:31 AM",
+    "Block/Address": "38##",
+    "Street": "WOODWARD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 12:24:50 PM",
+    "Block/Address": "",
+    "Street": "GLADSTONE AVE & VIMY AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 12:27:02 PM",
+    "Block/Address": "22##",
+    "Street": "GLADSTONE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 13, 2020 02:36:50 PM",
+    "Block/Address": "6##",
+    "Street": "CAPITOL",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 13, 2020 02:38:36 PM",
+    "Block/Address": "",
+    "Street": "PARK",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 16, 2020 10:15:13 AM",
+    "Block/Address": "6##",
+    "Street": "CAMERON",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 16, 2020 12:21:44 PM",
+    "Block/Address": "",
+    "Street": "WALKER RD & TECUMSEH RD E",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 17, 2020 09:21:48 AM",
+    "Block/Address": "4##",
+    "Street": "PARENT",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 01:45:16 PM",
+    "Block/Address": "52##",
+    "Street": 42,
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 01, 2020 09:41:47 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 03, 2020 09:30:04 AM",
+    "Block/Address": "",
+    "Street": "LABELLE ST & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 03, 2020 03:02:30 PM",
+    "Block/Address": "17##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 03, 2020 03:13:19 PM",
+    "Block/Address": "",
+    "Street": "CALIFORNIA AVE & RIVERSIDE DR W",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 03, 2020 04:50:03 PM",
+    "Block/Address": "39##",
+    "Street": "BYNG",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 03, 2020 04:50:12 PM",
+    "Block/Address": "36##",
+    "Street": "BYNG",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 07, 2020 10:33:48 AM",
+    "Block/Address": "45##",
+    "Street": "HOWARD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "APR 14, 2020 03:55:08 PM",
+    "Block/Address": "",
+    "Street": "BANWELL RD & EC ROW AVE E",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 20, 2020 12:46:19 PM",
+    "Block/Address": "40##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 13, 2020 11:04:07 AM",
+    "Block/Address": "",
+    "Street": "CHEWETT ST & RUSSELL ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 11, 2020 02:47:17 PM",
+    "Block/Address": "",
+    "Street": "CARMICHAEL RD & PRINCE RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 07, 2020 09:59:36 AM",
+    "Block/Address": "",
+    "Street": "COLLEGE AVE & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 10, 2020 03:36:53 PM",
+    "Block/Address": "",
+    "Street": "OJIBWAY ST & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 08:06:56 AM",
+    "Block/Address": "23##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 08:23:44 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & WALKER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 03:18:46 PM",
+    "Block/Address": "",
+    "Street": "MCKAY AVE & RIVERSIDE DR W",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 11:06:24 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & WALKER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 01:40:23 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & WALKER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 09:01:40 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 09:34:57 AM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 13, 2020 09:50:13 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 12, 2020 02:27:02 PM",
+    "Block/Address": "",
+    "Street": "PETER ST & SOUTH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 12, 2020 04:22:18 PM",
+    "Block/Address": "",
+    "Street": "CASGRAIN DR & CABANA RD W",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 11:57:51 AM",
+    "Block/Address": "7##",
+    "Street": "BROCK",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 11:57:58 AM",
+    "Block/Address": "37##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 11:58:48 AM",
+    "Block/Address": "37##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 11:59:33 AM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 12:00:32 PM",
+    "Block/Address": "38##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 13, 2020 12:01:18 PM",
+    "Block/Address": "",
+    "Street": "PETER ST & PRINCE RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 13, 2020 02:50:23 PM",
+    "Block/Address": "7##",
+    "Street": "JOSEPHINE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 14, 2020 10:22:05 AM",
+    "Block/Address": "",
+    "Street": "FOCH AVE & HIGHLAND AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:04:15 AM",
+    "Block/Address": "",
+    "Street": "WYANDOTTE ST W & PATRICIA RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:05:30 AM",
+    "Block/Address": "",
+    "Street": "WYANDOTTE ST W & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:09:42 AM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & LABELLE ST",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:47:36 AM",
+    "Block/Address": "15##",
+    "Street": "AUBIN",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:01:26 AM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 02:10:02 PM",
+    "Block/Address": "",
+    "Street": "LINCOLN RD & ONTARIO ST",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 06, 2020 03:30:11 PM",
+    "Block/Address": "32##",
+    "Street": "PARKWOOD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 02, 2020 12:16:14 PM",
+    "Block/Address": "10##",
+    "Street": "MCEWAN",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 02, 2020 01:17:44 PM",
+    "Block/Address": "",
+    "Street": "CHURCH ST & PINE ST",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 03, 2020 09:00:55 AM",
+    "Block/Address": "58##",
+    "Street": "WYANDOTTE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 03, 2020 09:41:17 AM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & ELM AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 03, 2020 01:18:47 PM",
+    "Block/Address": "12##",
+    "Street": "CABANA",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 03, 2020 01:49:42 PM",
+    "Block/Address": "",
+    "Street": "EDGAR ST & REEDMERE RD",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 08, 2020 04:04:48 PM",
+    "Block/Address": "",
+    "Street": "ELLIS ST E & HALL AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 09, 2020 08:25:30 AM",
+    "Block/Address": "24##",
+    "Street": "WALKER",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 07, 2020 01:44:24 PM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & MCKAY AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 07, 2020 02:11:05 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & FOREST GLADE DR",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 04, 2020 11:52:39 AM",
+    "Block/Address": "24##",
+    "Street": "WESTMINSTER",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 04, 2020 11:54:10 AM",
+    "Block/Address": "",
+    "Street": "OLIVE RD & SOUTH NATIONAL ST",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 09:59:31 AM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & REEDMERE RD",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 27, 2020 11:06:06 AM",
+    "Block/Address": "34##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 27, 2020 11:06:11 AM",
+    "Block/Address": "34##",
+    "Street": "PETER",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 27, 2020 11:06:41 AM",
+    "Block/Address": "4##",
+    "Street": "CHIPPAWA",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 27, 2020 11:46:25 AM",
+    "Block/Address": "",
+    "Street": "BROCK ST & SANDWICH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 27, 2020 11:56:07 AM",
+    "Block/Address": "",
+    "Street": "RIVERSIDE DR W & MCKAY AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 12:25:57 PM",
+    "Block/Address": "5##",
+    "Street": "RIVERDALE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 04:14:06 PM",
+    "Block/Address": "",
+    "Street": "SOMME AVE & CHANDLER RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 02:21:22 PM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 03, 2020 11:38:40 AM",
+    "Block/Address": "",
+    "Street": "CARMICHAEL RD & PRINCE RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 09:26:48 AM",
+    "Block/Address": "37##",
+    "Street": "NORTH SERVICE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 12:26:23 PM",
+    "Block/Address": "",
+    "Street": "NORFOLK ST & ACADEMY DR",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 02:19:06 PM",
+    "Block/Address": "",
+    "Street": "CATARAQUI ST & WALKER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 09:07:17 AM",
+    "Block/Address": "37##",
+    "Street": "NORTH SERVICE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 11:11:08 AM",
+    "Block/Address": "9##",
+    "Street": "PARENT",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 05, 2020 11:34:34 AM",
+    "Block/Address": "",
+    "Street": "ATKINSON ST & REMINGTON AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 12:16:42 PM",
+    "Block/Address": "",
+    "Street": "PARENT AVE & ERIE ST E",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 05, 2020 02:06:08 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:10:28 PM",
+    "Block/Address": "9##",
+    "Street": "PARENT",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:37:35 PM",
+    "Block/Address": "32##",
+    "Street": "BRUCE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 06, 2020 07:58:03 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 02:55:08 PM",
+    "Block/Address": "12##",
+    "Street": "LANGLOIS",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 12:53:41 PM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & HAWTHORNE DR",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 02:20:24 PM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 09:08:31 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH MALL ACCESS & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 02, 2020 10:16:36 AM",
+    "Block/Address": "",
+    "Street": "EC ROW OFF RAMP W & DOUGALL AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 06, 2020 07:58:45 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 09:14:00 AM",
+    "Block/Address": "12##",
+    "Street": "LAURENDEAU",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 11:21:43 AM",
+    "Block/Address": "37##",
+    "Street": "NORTH SERVICE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 12:50:18 PM",
+    "Block/Address": "37##",
+    "Street": "NORTH SERVICE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:47:35 PM",
+    "Block/Address": "32##",
+    "Street": "BRUCE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 22, 2020 09:35:37 AM",
+    "Block/Address": "",
+    "Street": "LINCOLN RD & OTTAWA ST",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 22, 2020 08:32:43 AM",
+    "Block/Address": "",
+    "Street": "STRABANE AVE & WYANDOTTE ST E",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 07, 2020 11:42:23 AM",
+    "Block/Address": "",
+    "Street": "LILLIAN AVE & EDINBOROUGH ST",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 08, 2020 12:10:31 PM",
+    "Block/Address": "15##",
+    "Street": "NIAGARA",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 08, 2020 12:58:53 PM",
+    "Block/Address": "",
+    "Street": "NIAGARA ST & LINCOLN RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 08, 2020 03:11:44 PM",
+    "Block/Address": "27##",
+    "Street": "ALEXIS",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 26, 2020 06:27:51 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 09, 2020 02:34:07 PM",
+    "Block/Address": "",
+    "Street": "LAUZON RD & COUNTY RD 42",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 23, 2020 02:59:30 PM",
+    "Block/Address": "",
+    "Street": "ERSKINE ST & STRABANE AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 20, 2020 03:31:29 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & EDINBOROUGH ST",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 20, 2020 06:50:08 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 21, 2020 11:03:11 AM",
+    "Block/Address": "31##",
+    "Street": "RADISSON",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 27, 2020 09:40:33 AM",
+    "Block/Address": "",
+    "Street": "REGINALD ST & GLENDALE AVE",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 01, 2020 08:35:15 AM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & SEMINOLE ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 09, 2020 12:47:54 PM",
+    "Block/Address": "9888##",
+    "Street": "EC ROW ON",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 17, 2020 01:04:17 PM",
+    "Block/Address": "",
+    "Street": "GLENWOOD AVE & LIBERTY ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 20, 2020 09:12:14 AM",
+    "Block/Address": "",
+    "Street": "LAUZON LINE & LAUZON PKY",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 20, 2020 12:24:43 PM",
+    "Block/Address": "",
+    "Street": "NEAL BLVD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 10:34:41 AM",
+    "Block/Address": "5##",
+    "Street": "JARVIS",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 04, 2020 01:13:34 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 04, 2020 01:14:15 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 04, 2020 01:39:24 PM",
+    "Block/Address": "",
+    "Street": "ERSKINE ST & STRABANE AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 08:48:07 AM",
+    "Block/Address": "",
+    "Street": "DOUGALL AVE & TECUMSEH RD W",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 01:33:38 PM",
+    "Block/Address": "42##",
+    "Street": "HOWARD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 02:09:50 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 02:24:52 PM",
+    "Block/Address": "",
+    "Street": "NORFOLK ST & VIRGINIA PARK AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 02:26:34 PM",
+    "Block/Address": "",
+    "Street": "NORFOLK ST & DOMINION BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 04:42:45 PM",
+    "Block/Address": "43##",
+    "Street": "HOWARD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 02:22:50 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 24, 2020 04:59:03 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 05, 2020 01:50:19 PM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 02:38:01 PM",
+    "Block/Address": "",
+    "Street": "SPRUCEWOOD AVE & MARIGOLD DR",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 10, 2020 11:41:19 AM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 19, 2020 11:39:22 AM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 03:07:26 PM",
+    "Block/Address": "17##",
+    "Street": "CADILLAC",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 04:16:53 PM",
+    "Block/Address": "",
+    "Street": "RIBERDY RD & AIRPORT RD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 05, 2020 12:43:28 PM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 03, 2020 08:36:15 AM",
+    "Block/Address": "",
+    "Street": "CATARAQUI ST & CHILVER RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 12:54:13 PM",
+    "Block/Address": "",
+    "Street": "BROADWAY ST & MATCHETTE RD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 04:24:14 PM",
+    "Block/Address": "",
+    "Street": "SOUTH ST & BLOOMFIELD RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 08:47:03 AM",
+    "Block/Address": "30##",
+    "Street": "WOODLAWN",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:06:26 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:08:43 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:14:19 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:23:20 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 04, 2020 11:08:34 AM",
+    "Block/Address": "18##",
+    "Street": "LAMBTON",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 04, 2020 04:11:56 PM",
+    "Block/Address": "27##",
+    "Street": "HOWARD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 08:10:34 AM",
+    "Block/Address": "",
+    "Street": "BYNG RD & SYDNEY AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 10:48:41 AM",
+    "Block/Address": "",
+    "Street": "REGINALD ST & PILLETTE RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 03:02:22 PM",
+    "Block/Address": "33##",
+    "Street": "CHURCH",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 03:06:25 PM",
+    "Block/Address": "",
+    "Street": "GLENWOOD AVE & LIBERTY ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 05, 2020 03:29:28 PM",
+    "Block/Address": "7##",
+    "Street": "BROCK",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 05, 2020 03:30:48 PM",
+    "Block/Address": "33##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 05, 2020 03:31:56 PM",
+    "Block/Address": "",
+    "Street": "BLOOMFIELD RD & CHIPPAWA ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 05, 2020 03:33:23 PM",
+    "Block/Address": "",
+    "Street": "WATKINS ST & SANDWICH ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 12:54:39 PM",
+    "Block/Address": "32##",
+    "Street": "BRUCE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 07, 2020 03:18:46 PM",
+    "Block/Address": "",
+    "Street": "REGINALD ST & PILLETTE RD",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 07, 2020 03:24:34 PM",
+    "Block/Address": "31##",
+    "Street": "DANDURAND",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 08:24:18 AM",
+    "Block/Address": "9##",
+    "Street": "RHOLAINE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 10:45:10 AM",
+    "Block/Address": "8##",
+    "Street": "LAUZON",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "FEB 10, 2020 11:45:11 AM",
+    "Block/Address": "",
+    "Street": "RIVERSIDE DR E & JEFFERSON BLVD",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 12:41:45 PM",
+    "Block/Address": "",
+    "Street": "HURON CHURCH RD & PATRICIA RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:25:52 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 10, 2020 02:28:58 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 02:34:19 PM",
+    "Block/Address": "",
+    "Street": "CAMPBELL AVE & WYANDOTTE ST W",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 11, 2020 01:20:56 PM",
+    "Block/Address": "",
+    "Street": "TRANBY AVE & ISABELLE PL",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 11, 2020 02:34:56 PM",
+    "Block/Address": "34##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 02:30:22 PM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & MCKAY AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 03:36:23 PM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & VILLAIRE AVE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 04:18:52 PM",
+    "Block/Address": "70##",
+    "Street": "WYANDOTTE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 04:38:12 PM",
+    "Block/Address": "",
+    "Street": "CATARAQUI ST & LINCOLN RD",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 04:44:56 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & MAGUIRE ST",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 11, 2020 08:29:54 AM",
+    "Block/Address": "",
+    "Street": "ONTARIO ST & PRADO PL",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 10, 2020 12:43:53 PM",
+    "Block/Address": "8##",
+    "Street": "LAUZON",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 20, 2020 12:38:30 PM",
+    "Block/Address": "30##",
+    "Street": "MORRIS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 20, 2020 12:51:26 PM",
+    "Block/Address": "",
+    "Street": "HIGHLAND AVE & ERIE ST E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 20, 2020 03:06:17 PM",
+    "Block/Address": "32##",
+    "Street": "EDISON",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 20, 2020 04:25:44 PM",
+    "Block/Address": "12##",
+    "Street": "BELLEPERCHE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:06:02 AM",
+    "Block/Address": "71##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:08:32 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON RD",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:15:11 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON RD",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:29:06 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 08:40:21 AM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & TECUMSEH RD E",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 09:35:40 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 23, 2020 02:37:58 PM",
+    "Block/Address": "",
+    "Street": "ST LUKE RD & REGINALD ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 23, 2020 03:06:10 PM",
+    "Block/Address": "45##",
+    "Street": "OJIBWAY",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 10:04:40 AM",
+    "Block/Address": "71##",
+    "Street": "TECUMSEH",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 02, 2020 01:17:55 PM",
+    "Block/Address": "3##",
+    "Street": "WATKINS",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 02, 2020 01:36:39 PM",
+    "Block/Address": "",
+    "Street": "LIBERTY ST & DOUGALL AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 03:13:11 PM",
+    "Block/Address": "21##",
+    "Street": "CONTINENTAL",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 03, 2020 09:16:12 AM",
+    "Block/Address": "",
+    "Street": "COLLEGE AVE & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 27, 2020 12:02:56 PM",
+    "Block/Address": "",
+    "Street": "CLAIRVIEW AVE & LAUZON RD",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 27, 2020 02:50:35 PM",
+    "Block/Address": "2##",
+    "Street": "VICTORIA",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 12:02:22 PM",
+    "Block/Address": "",
+    "Street": "CHURCH ST & NORFOLK ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 01:44:12 PM",
+    "Block/Address": "34##",
+    "Street": "PARKWOOD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 01:48:10 PM",
+    "Block/Address": "17##",
+    "Street": "FACTORIA",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 03:43:02 PM",
+    "Block/Address": "",
+    "Street": "CHURCH ST & LIBERTY ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 03:46:20 PM",
+    "Block/Address": "",
+    "Street": "CHURCH ST & NOTTINGHAM ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 03:49:58 PM",
+    "Block/Address": "",
+    "Street": "LIBERTY ST & CHURCH ST",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 05:04:51 PM",
+    "Block/Address": "16##",
+    "Street": "PROVINCIAL",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 10:05:42 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 02, 2020 10:35:51 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 01:59:29 PM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & TECUMSEH RD E",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 02, 2020 02:21:51 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & LAUZON PKY",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 03:31:24 PM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & TECUMSEH RD E",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 22, 2020 10:16:16 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 23, 2020 09:01:21 AM",
+    "Block/Address": "30##",
+    "Street": "MORRIS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 15, 2020 03:22:56 PM",
+    "Block/Address": "33##",
+    "Street": "BANWELL",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 17, 2020 01:45:34 PM",
+    "Block/Address": "978##",
+    "Street": "RHODES",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 20, 2020 10:25:34 AM",
+    "Block/Address": "",
+    "Street": "FELIX AVE & MARLBOROUGH BLVD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 09:03:01 AM",
+    "Block/Address": "",
+    "Street": "EC ROW EXPY E & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 02, 2020 11:19:48 AM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 03, 2020 01:22:42 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 03:52:26 PM",
+    "Block/Address": "",
+    "Street": "CHRYSLER CENTRE & GRAND MARAIS RD E",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 04:18:10 PM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & GUY ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 03, 2020 04:23:13 PM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & ALICE ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 09:43:51 AM",
+    "Block/Address": "",
+    "Street": "ELLIS ST W & JANETTE AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 05, 2020 03:11:32 PM",
+    "Block/Address": "24##",
+    "Street": "WESTMINSTER",
+    "Ward": "WARD 8",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 07, 2020 11:39:58 AM",
+    "Block/Address": "55##",
+    "Street": "RHODES",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 09, 2020 10:50:37 AM",
+    "Block/Address": "",
+    "Street": "LENS AVE & WOODLAWN AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 08:02:25 AM",
+    "Block/Address": "18##",
+    "Street": "GEORGE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 30, 2020 08:38:49 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 12:14:51 PM",
+    "Block/Address": "",
+    "Street": "WEST GRAND BLVD & WOODLAND AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 30, 2020 02:28:36 PM",
+    "Block/Address": "3##",
+    "Street": "WATKINS",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "JAN 30, 2020 02:28:45 PM",
+    "Block/Address": "3##",
+    "Street": "WATKINS",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 03:14:28 PM",
+    "Block/Address": "",
+    "Street": "PILLETTE RD & GRAND MARAIS RD E",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 08:15:54 AM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 11:30:22 AM",
+    "Block/Address": "",
+    "Street": "RIVERSIDE DR E & LOUIS AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 01:06:55 PM",
+    "Block/Address": "6##",
+    "Street": "RIVERSIDE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 04:56:56 PM",
+    "Block/Address": "",
+    "Street": "LABELLE ST & LONGFELLOW AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 04, 2020 11:06:02 AM",
+    "Block/Address": "",
+    "Street": "ALEXIS RD & VIMY AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 04, 2020 11:42:51 AM",
+    "Block/Address": "4##",
+    "Street": "MATTHEW BRADY",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 04:57:58 PM",
+    "Block/Address": "",
+    "Street": "LABELLE ST & ALEXANDRA AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 04:58:47 PM",
+    "Block/Address": "",
+    "Street": "LABELLE ST & DANDURAND AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 05, 2020 04:58:55 PM",
+    "Block/Address": "",
+    "Street": "LABELLE ST & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 09:15:50 AM",
+    "Block/Address": "9222##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 11:46:24 AM",
+    "Block/Address": "",
+    "Street": "CABANA RD W & DOUGALL AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 11:46:28 AM",
+    "Block/Address": "",
+    "Street": "NORFOLK ST & DOMINION BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 06, 2020 11:47:35 AM",
+    "Block/Address": "",
+    "Street": "NORFOLK ST & BRUCE AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 04, 2020 01:04:45 PM",
+    "Block/Address": "16##",
+    "Street": "CHAPPUS",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 14, 2020 08:12:23 AM",
+    "Block/Address": "3##",
+    "Street": "RANDOLPH",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 01:27:56 PM",
+    "Block/Address": "16##",
+    "Street": "ST LUKE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 24, 2020 03:52:17 PM",
+    "Block/Address": "29##",
+    "Street": "ELSMERE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 25, 2020 12:37:34 PM",
+    "Block/Address": "",
+    "Street": "CABANA RD W & ASKIN AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 25, 2020 03:37:08 PM",
+    "Block/Address": "",
+    "Street": "EC ROW EXPY E & DOMINION BLVD",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 26, 2020 02:31:13 PM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & GRAND MARAIS RD W",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 06, 2020 11:47:25 AM",
+    "Block/Address": "",
+    "Street": "BANWELL RD & EC ROW EXPY W",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 09, 2020 02:15:00 PM",
+    "Block/Address": "",
+    "Street": "LITTLE RIVER BLVD & CLOVER AVE",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 14, 2020 12:59:10 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 15, 2020 08:38:56 AM",
+    "Block/Address": "",
+    "Street": "LENS AVE & PARKWOOD AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 15, 2020 10:33:39 AM",
+    "Block/Address": "30##",
+    "Street": "CHURCH",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 16, 2020 09:16:51 AM",
+    "Block/Address": "14##",
+    "Street": "WINDSOR",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 16, 2020 02:54:59 PM",
+    "Block/Address": "",
+    "Street": "GOYEAU ST & UNIVERSITY AVE E",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "APR 19, 2020 11:48:35 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 30, 2020 12:16:54 PM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 05, 2020 09:20:20 AM",
+    "Block/Address": "",
+    "Street": "HURON CHURCH RD & COLLEGE AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 10, 2020 10:46:38 AM",
+    "Block/Address": "3##",
+    "Street": "BROCK",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 10:32:36 AM",
+    "Block/Address": "16##",
+    "Street": "HICKORY",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 11, 2020 03:33:25 PM",
+    "Block/Address": "32##",
+    "Street": "ACADEMY",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 11, 2020 03:33:32 PM",
+    "Block/Address": "32##",
+    "Street": "ACADEMY",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 12, 2020 09:13:51 AM",
+    "Block/Address": "12##",
+    "Street": "CAMPBELL",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 12, 2020 11:08:39 AM",
+    "Block/Address": "32##",
+    "Street": "PARKWOOD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 12, 2020 11:50:34 AM",
+    "Block/Address": "",
+    "Street": "CEDARVIEW ST & MATTHEW BRADY BLVD",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "MAR 12, 2020 10:02:39 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 14, 2020 10:24:44 AM",
+    "Block/Address": "15##",
+    "Street": "YORK",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "APR 14, 2020 01:58:33 PM",
+    "Block/Address": "",
+    "Street": "YORK ST & TECUMSEH RD W",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 08, 2020 03:59:01 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 08, 2020 04:00:00 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 08, 2020 04:00:52 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 08, 2020 04:01:53 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 18, 2020 03:49:42 PM",
+    "Block/Address": "",
+    "Street": "WAVERLY ST & LANGLOIS CRT",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 19, 2020 09:12:29 AM",
+    "Block/Address": "11##",
+    "Street": "CHURCH",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 19, 2020 09:22:42 AM",
+    "Block/Address": "6##",
+    "Street": "EDINBOROUGH",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "FEB 19, 2020 10:18:28 AM",
+    "Block/Address": "15##",
+    "Street": "CHANDLER",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 01:50:50 PM",
+    "Block/Address": "9##",
+    "Street": "PILLETTE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 03:45:30 PM",
+    "Block/Address": "18##",
+    "Street": "CENTRAL",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 10, 2020 04:20:30 PM",
+    "Block/Address": "",
+    "Street": "CENTRAL AVE & ALICE ST",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 11, 2020 08:09:39 AM",
+    "Block/Address": "",
+    "Street": "WYANDOTTE ST W & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAR 11, 2020 10:58:47 AM",
+    "Block/Address": "31##",
+    "Street": "BYNG",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAR 11, 2020 09:39:17 AM",
+    "Block/Address": "",
+    "Street": "ALICE ST & CENTRAL AVE",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 10:21:44 AM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 11:08:17 AM",
+    "Block/Address": "",
+    "Street": "COLLEGE AVE & HURON CHURCH RD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 11:15:39 AM",
+    "Block/Address": "",
+    "Street": "NORTH TALBOT RD & HOWARD AVE",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "JAN 27, 2020 03:49:42 PM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 04:01:35 PM",
+    "Block/Address": "3##",
+    "Street": "BARTLET",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 09:21:16 AM",
+    "Block/Address": "19##",
+    "Street": "LENS",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 10:42:50 AM",
+    "Block/Address": "9666##",
+    "Street": "EC ROW OFF",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Text",
+    "Created Date": "JAN 28, 2020 01:03:55 PM",
+    "Block/Address": "",
+    "Street": "PELLETIER ST & RANKIN AVE",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 01:10:01 PM",
+    "Block/Address": "",
+    "Street": "BERNARD RD & GRAND MARAIS RD E",
+    "Ward": "WARD 5",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 01:25:04 PM",
+    "Block/Address": "14##",
+    "Street": "LAUZON",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 02:36:27 PM",
+    "Block/Address": "23##",
+    "Street": "DANDURAND",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 02:36:40 PM",
+    "Block/Address": "",
+    "Street": "NORTHWOOD ST & ACADEMY DR",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 28, 2020 04:54:09 PM",
+    "Block/Address": "",
+    "Street": "LAUZON PKY & LAUZON LINE",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 11:14:46 AM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "JAN 27, 2020 04:57:41 PM",
+    "Block/Address": "",
+    "Street": "HOWARD AVE & NEAL BLVD",
+    "Ward": "WARD 1",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 19, 2020 10:54:30 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Web Intake",
+    "Created Date": "FEB 19, 2020 10:55:26 AM",
+    "Block/Address": "",
+    "Street": "",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Text",
+    "Created Date": "FEB 19, 2020 11:29:59 AM",
+    "Block/Address": "",
+    "Street": "DOMINION BLVD & GRAND MARAIS RD W",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 15, 2020 12:42:11 PM",
+    "Block/Address": "35##",
+    "Street": "MULFORD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 19, 2020 08:50:17 AM",
+    "Block/Address": "",
+    "Street": "UNIVERSITY AVE W & SALTER AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 12, 2020 01:45:11 PM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD E & HOWARD AVE",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 20, 2020 11:52:23 AM",
+    "Block/Address": "5##",
+    "Street": "WAHKETA",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 21, 2020 08:43:55 AM",
+    "Block/Address": "",
+    "Street": "TECUMSEH RD W & MCKAY AVE",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 21, 2020 08:46:23 AM",
+    "Block/Address": "",
+    "Street": "HURON CHURCH RD & TECUMSEH RD W",
+    "Ward": "WARD 10",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 21, 2020 10:58:22 AM",
+    "Block/Address": "5##",
+    "Street": "ELINOR",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 21, 2020 01:27:26 PM",
+    "Block/Address": "",
+    "Street": "EDGAR ST & GARDEN COURT DR",
+    "Ward": "WARD 6",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 25, 2020 01:08:24 PM",
+    "Block/Address": "107##",
+    "Street": "CLAIRVIEW",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 25, 2020 02:35:45 PM",
+    "Block/Address": "15##",
+    "Street": "YORK",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:39:09 PM",
+    "Block/Address": "",
+    "Street": "BROCK ST & EDISON ST",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:40:09 PM",
+    "Block/Address": "7##",
+    "Street": "BROCK",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:41:02 PM",
+    "Block/Address": "33##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:41:55 PM",
+    "Block/Address": "33##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 10:09:04 AM",
+    "Block/Address": "",
+    "Street": "MOY AVE & RIVERSIDE DR E",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 10:12:36 AM",
+    "Block/Address": "",
+    "Street": "HANNA ST W & YORK ST",
+    "Ward": "WARD 3",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 25, 2020 10:50:54 AM",
+    "Block/Address": "20##",
+    "Street": "IROQUOIS",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:42:51 PM",
+    "Block/Address": "33##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:43:42 PM",
+    "Block/Address": "34##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "E-Mail",
+    "Created Date": "MAY 25, 2020 02:44:39 PM",
+    "Block/Address": "34##",
+    "Street": "BLOOMFIELD",
+    "Ward": "WARD 2",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 25, 2020 03:47:53 PM",
+    "Block/Address": "",
+    "Street": "WALKER RD & DIVISION RD",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 14, 2020 01:57:41 PM",
+    "Block/Address": "105##",
+    "Street": "KEATING",
+    "Ward": "WARD 7",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 19, 2020 11:39:36 AM",
+    "Block/Address": "",
+    "Street": "WALKER RD & LAPPAN AVE",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 20, 2020 08:14:10 AM",
+    "Block/Address": "",
+    "Street": "VIMY AVE & GLADSTONE AVE",
+    "Ward": "WARD 4",
+    "Sub-Type": ""
+  },
+  {
+    "Service Request Description": "Pothole",
+    "Department": "Contracts, Field Services & Maintenance",
+    "Method Received": "Phone",
+    "Created Date": "MAY 20, 2020 12:00:40 PM",
+    "Block/Address": "30##",
+    "Street": "WOODLAWN",
+    "Ward": "WARD 9",
+    "Sub-Type": ""
+  }
+]

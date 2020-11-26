@@ -1,0 +1,666 @@
+[
+  {
+    "XCoord": -83.04739931,
+    "YCoord": 42.28979398,
+    "FID": 0,
+    "NAME": "Ecole Saint-Edmond",
+    "ADDRESS": "1880 Totten St",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -83.02009051,
+    "YCoord": 42.27698858,
+    "FID": 1,
+    "NAME": "Ecole Secondaire E.J. Lajeunesse",
+    "ADDRESS": "600 North Service Rd",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -82.96010463,
+    "YCoord": 42.30817277,
+    "FID": 2,
+    "NAME": "Ecole Sainte-Therese",
+    "ADDRESS": "5305 Tecumseh Rd E",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -82.95915337,
+    "YCoord": 42.32447528,
+    "FID": 3,
+    "NAME": "Ecole Georges P. Vanier",
+    "ADDRESS": "6200 Edgar St",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -83.03483473,
+    "YCoord": 42.25974506,
+    "FID": 4,
+    "NAME": "Ecole Monseigneur Jean Noel",
+    "ADDRESS": "3225 California Ave",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -83.00697576,
+    "YCoord": 42.31124721,
+    "FID": 5,
+    "NAME": "Ecole L'Envolee",
+    "ADDRESS": "1799 Ottawa St",
+    "BOARD": "Conseil scolaire Viamonde"
+  },
+  {
+    "XCoord": -83.04544151,
+    "YCoord": 42.28871002,
+    "FID": 6,
+    "NAME": "Ecole secondaire de Lamothe-Cadillac",
+    "ADDRESS": "1775 Totten Ave",
+    "BOARD": "Conseil scolaire Viamonde"
+  },
+  {
+    "XCoord": -83.03282696,
+    "YCoord": 42.25368535,
+    "FID": 7,
+    "NAME": "Ecole elementaire Louise-Charron",
+    "ADDRESS": "2520 Cabana Rd W",
+    "BOARD": "Conseil scolaire Viamonde"
+  },
+  {
+    "XCoord": -82.96210288,
+    "YCoord": 42.31362746,
+    "FID": 8,
+    "NAME": "Coronation Public School",
+    "ADDRESS": "5400 Coronation Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.95374244,
+    "YCoord": 42.29854406,
+    "FID": 9,
+    "NAME": "W.G. Davis Public School",
+    "ADDRESS": "2855 Rivard Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.96867336,
+    "YCoord": 42.32382702,
+    "FID": 10,
+    "NAME": "Princess Elizabeth Public School",
+    "ADDRESS": "5399 Raymond Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.95960766,
+    "YCoord": 42.32661225,
+    "FID": 11,
+    "NAME": "Dr. David Suzuki Public School",
+    "ADDRESS": "6320 Raymond Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.92217821,
+    "YCoord": 42.30060338,
+    "FID": 12,
+    "NAME": "Eastwood Public School",
+    "ADDRESS": "3555 Forest Glade Dr",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.92312826,
+    "YCoord": 42.31089217,
+    "FID": 13,
+    "NAME": "Forest Glade Public School - Main Site",
+    "ADDRESS": "9485 Esplanade Dr",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.93467011,
+    "YCoord": 42.33613025,
+    "FID": 14,
+    "NAME": "Hetherington Public School",
+    "ADDRESS": "8800 Menard St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.90961254,
+    "YCoord": 42.30772765,
+    "FID": 15,
+    "NAME": "Parkview Public School",
+    "ADDRESS": "3070 Stillmeadow Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.9251364,
+    "YCoord": 42.31005023,
+    "FID": 16,
+    "NAME": "Forest Glade Public School -  Primary Learning Centre",
+    "ADDRESS": "9367 Esplanade Dr",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97575363,
+    "YCoord": 42.31482288,
+    "FID": 17,
+    "NAME": "David Maxwell Public School",
+    "ADDRESS": "1648 Francois Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02247822,
+    "YCoord": 42.32101645,
+    "FID": 18,
+    "NAME": "F.W. Begley Public School",
+    "ADDRESS": "1093 Assumption St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.99968546,
+    "YCoord": 42.29901222,
+    "FID": 19,
+    "NAME": "Hugh Beaton Public School",
+    "ADDRESS": "2229 Chilver Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01272491,
+    "YCoord": 42.31940591,
+    "FID": 20,
+    "NAME": "King Edward Public School",
+    "ADDRESS": "853 Chilver Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97644471,
+    "YCoord": 42.31040336,
+    "FID": 21,
+    "NAME": "Ford City Public School",
+    "ADDRESS": "4195 Milloy St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01747759,
+    "YCoord": 42.31008547,
+    "FID": 22,
+    "NAME": "Prince Edward Public School",
+    "ADDRESS": "949 Giles Blvd E",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97520043,
+    "YCoord": 42.30828422,
+    "FID": 23,
+    "NAME": "W.F. Herman Academy",
+    "ADDRESS": "1930 Rossini Blvd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.00699227,
+    "YCoord": 42.3172562,
+    "FID": 24,
+    "NAME": "Walkerville Collegiate Institute",
+    "ADDRESS": "2100 Richmond St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.07784375,
+    "YCoord": 42.29968656,
+    "FID": 25,
+    "NAME": "General Brock Public School",
+    "ADDRESS": "3312 Sandwich St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06461994,
+    "YCoord": 42.28974714,
+    "FID": 26,
+    "NAME": "Marlborough Public School",
+    "ADDRESS": "3557 Melbourne Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.0565856,
+    "YCoord": 42.29280716,
+    "FID": 27,
+    "NAME": "Westview Freedom Academy",
+    "ADDRESS": "1375 California Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02077182,
+    "YCoord": 42.29559397,
+    "FID": 28,
+    "NAME": "Kennedy Collegiate Institute",
+    "ADDRESS": "245 Tecumseh Rd E",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.00612275,
+    "YCoord": 42.29944823,
+    "FID": 29,
+    "NAME": "John Campbell Public School",
+    "ADDRESS": "1225 Tecumseh Rd E",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.04036709,
+    "YCoord": 42.26719608,
+    "FID": 30,
+    "NAME": "Bellewood Public School",
+    "ADDRESS": "2500 LaBelle St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02821739,
+    "YCoord": 42.25956187,
+    "FID": 31,
+    "NAME": "Massey Secondary School",
+    "ADDRESS": "1800 Liberty St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01759197,
+    "YCoord": 42.26718716,
+    "FID": 32,
+    "NAME": "Central Public School",
+    "ADDRESS": "700 Norfolk St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02832431,
+    "YCoord": 42.26258364,
+    "FID": 33,
+    "NAME": "Glenwood Public School",
+    "ADDRESS": "1601 Norfolk St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.0182912,
+    "YCoord": 42.25402063,
+    "FID": 34,
+    "NAME": "Southwood Public School",
+    "ADDRESS": "1355 Cabana Rd W",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.03005255,
+    "YCoord": 42.27812154,
+    "FID": 35,
+    "NAME": "Northwood Public School",
+    "ADDRESS": "1100 Northwood St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.94688856,
+    "YCoord": 42.30674322,
+    "FID": 36,
+    "NAME": "Roseville Public School",
+    "ADDRESS": "6265 Roseville Garden Dr",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.93540054,
+    "YCoord": 42.33015091,
+    "FID": 37,
+    "NAME": "Riverside Secondary School",
+    "ADDRESS": "8465 Jerome St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.03869682,
+    "YCoord": 42.31062443,
+    "FID": 38,
+    "NAME": "Dougall Ave. Public School",
+    "ADDRESS": "811 Dougall Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.03098621,
+    "YCoord": 42.30212239,
+    "FID": 39,
+    "NAME": "Queen Victoria Public School",
+    "ADDRESS": "1376 Victoria Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.98617881,
+    "YCoord": 42.28137044,
+    "FID": 40,
+    "NAME": "John A. McWilliam Public School",
+    "ADDRESS": "1901 EC Row Ave E",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.99278203,
+    "YCoord": 42.25945373,
+    "FID": 41,
+    "NAME": "Roseland Public School",
+    "ADDRESS": "620 Cabana Rd E",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97329414,
+    "YCoord": 42.25186946,
+    "FID": 42,
+    "NAME": "Talbot Trail Public School",
+    "ADDRESS": "4000 Ducharme St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01980662,
+    "YCoord": 42.31123523,
+    "FID": 43,
+    "NAME": "Giles Campus French Immersion Public School",
+    "ADDRESS": "874 Giles Blvd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.05132168,
+    "YCoord": 42.29733581,
+    "FID": 44,
+    "NAME": "West Gate Public School",
+    "ADDRESS": "1275 Campbell Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.99318275,
+    "YCoord": 42.28020586,
+    "FID": 45,
+    "NAME": "St. Christopher Catholic Elementary School",
+    "ADDRESS": "1213 EC Row Ave E",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.95245547,
+    "YCoord": 42.29405996,
+    "FID": 46,
+    "NAME": "W.J. Langlois Catholic Elementary School",
+    "ADDRESS": "3110 Rivard Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.91271185,
+    "YCoord": 42.31619118,
+    "FID": 47,
+    "NAME": "St. Joseph's Catholic High School",
+    "ADDRESS": "2425 Clover Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.00342284,
+    "YCoord": 42.28340777,
+    "FID": 48,
+    "NAME": "Our Lady of Perpetual Help Catholic Elementary School",
+    "ADDRESS": "775 Capitol St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.03367111,
+    "YCoord": 42.27758599,
+    "FID": 49,
+    "NAME": "Holy Names Catholic High School",
+    "ADDRESS": "1400 Northwood St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.93995138,
+    "YCoord": 42.33707894,
+    "FID": 50,
+    "NAME": "St. John Vianney Catholic Elementary School",
+    "ADDRESS": "8405 Cedarview St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.92023932,
+    "YCoord": 42.30211146,
+    "FID": 51,
+    "NAME": "H.J. Lassaline Catholic Elementary School",
+    "ADDRESS": "3145 Wildwood Dr",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01778567,
+    "YCoord": 42.30608826,
+    "FID": 52,
+    "NAME": "St. Angela Catholic Elementary School",
+    "ADDRESS": "816 Ellis St E",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.00465367,
+    "YCoord": 42.31655788,
+    "FID": 53,
+    "NAME": "St. Anne Catholic Elementary School",
+    "ADDRESS": "1140 Monmouth Rd",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.98583985,
+    "YCoord": 42.30543642,
+    "FID": 54,
+    "NAME": "St. Teresa of Calcutta Catholic Elementary School",
+    "ADDRESS": "1860 Chandler Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06114364,
+    "YCoord": 42.28384222,
+    "FID": 55,
+    "NAME": "St. James Catholic Elementary School",
+    "ADDRESS": "1601 St. James St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06172117,
+    "YCoord": 42.29525603,
+    "FID": 56,
+    "NAME": "Assumption College Catholic High School and Middle School",
+    "ADDRESS": "1100 Huron Church Rd",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.04030168,
+    "YCoord": 42.31471087,
+    "FID": 57,
+    "NAME": "Immaculate Conception Catholic Elementary School",
+    "ADDRESS": "465 Victoria Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97550451,
+    "YCoord": 42.32497683,
+    "FID": 58,
+    "NAME": "F.J. Brennan Catholic High School",
+    "ADDRESS": "910 Raymo Rd",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01852493,
+    "YCoord": 42.29722386,
+    "FID": 59,
+    "NAME": "Catholic Central High School",
+    "ADDRESS": "441 Tecumseh Rd E",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02530079,
+    "YCoord": 42.26945851,
+    "FID": 60,
+    "NAME": "Christ the King Catholic Elementary School",
+    "ADDRESS": "1200 Grand Marais Rd W",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.03509702,
+    "YCoord": 42.26888186,
+    "FID": 61,
+    "NAME": "Notre Dame Catholic Elementary School",
+    "ADDRESS": "2751 Partington Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.01193225,
+    "YCoord": 42.24315228,
+    "FID": 62,
+    "NAME": "Our Lady of Mount Carmel Catholic Elementary School",
+    "ADDRESS": "1400 Cousineau Rd",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02086012,
+    "YCoord": 42.25680659,
+    "FID": 63,
+    "NAME": "St. Gabriel Catholic Elementary School",
+    "ADDRESS": "1400 Roselawn Dr",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.9542875,
+    "YCoord": 42.33009106,
+    "FID": 64,
+    "NAME": "St. Rose Catholic Elementary School",
+    "ADDRESS": "871 St. Rose St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.90954694,
+    "YCoord": 42.30968965,
+    "FID": 65,
+    "NAME": "L.A. Desmarais Catholic Elementary School",
+    "ADDRESS": "10715 Eastcourt Dr",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -82.97521383,
+    "YCoord": 42.32477941,
+    "FID": 66,
+    "NAME": "Corpus Christi Catholic Middle School",
+    "ADDRESS": "910 Raymo Rd",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06631612,
+    "YCoord": 42.30684261,
+    "FID": 67,
+    "NAME": "University of Windsor",
+    "ADDRESS": "401 Sunset Ave",
+    "BOARD": "University of Windsor"
+  },
+  {
+    "XCoord": -83.01820985,
+    "YCoord": 42.24644432,
+    "FID": 68,
+    "NAME": "St. Clair College",
+    "ADDRESS": "2000 Talbot Rd W",
+    "BOARD": "St. Clair College"
+  },
+  {
+    "XCoord": -83.04224682,
+    "YCoord": 42.31895621,
+    "FID": 69,
+    "NAME": "St. Clair Centre for the Arts",
+    "ADDRESS": "201 Riverside Dr W",
+    "BOARD": "St. Clair College"
+  },
+  {
+    "XCoord": -83.06518247,
+    "YCoord": 42.29757711,
+    "FID": 70,
+    "NAME": "INCUBATOR: Hybrid Laboratory at the Intersection of Art; Science & Ecology",
+    "ADDRESS": "955 Huron Church Rd",
+    "BOARD": "University of Windsor"
+  },
+  {
+    "XCoord": -83.04158063,
+    "YCoord": 42.31719088,
+    "FID": 71,
+    "NAME": "St. Clair College Media Plex",
+    "ADDRESS": "275 Victoria Ave",
+    "BOARD": "St. Clair College"
+  },
+  {
+    "XCoord": -83.06190983,
+    "YCoord": 42.29812219,
+    "FID": 72,
+    "NAME": "University of Windsor -  St. Denis Centre",
+    "ADDRESS": "2555 College Ave",
+    "BOARD": "University of Windsor"
+  },
+  {
+    "XCoord": -82.92565933,
+    "YCoord": 42.29747535,
+    "FID": 73,
+    "NAME": "Conseil scolaire catholique Providence",
+    "ADDRESS": "7515 Forest Glade Ave",
+    "BOARD": "C.S.C.P."
+  },
+  {
+    "XCoord": -83.05464411,
+    "YCoord": 42.31406878,
+    "FID": 74,
+    "NAME": "Adult and Continuing Education",
+    "ADDRESS": "284 Cameron Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.05442577,
+    "YCoord": 42.31369056,
+    "FID": 75,
+    "NAME": "Directions(IAP); P.A.S.S. and Turning Point",
+    "ADDRESS": "284 Cameron Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.02725101,
+    "YCoord": 42.31106502,
+    "FID": 76,
+    "NAME": "New Beginnings I and II",
+    "ADDRESS": "1015 Highland Ave",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06378528,
+    "YCoord": 42.28615559,
+    "FID": 77,
+    "NAME": "Glengard-Osmond Bldg",
+    "ADDRESS": "1453 Prince Rd",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.07296594,
+    "YCoord": 42.291271,
+    "FID": 78,
+    "NAME": "Maryvale Adolescent and Family Services",
+    "ADDRESS": "3640 Wells St",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.0430577,
+    "YCoord": 42.31478827,
+    "FID": 79,
+    "NAME": "Greater Essex County District School Board",
+    "ADDRESS": "451 Park Ave W",
+    "BOARD": "G.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.07219415,
+    "YCoord": 42.30288312,
+    "FID": 80,
+    "NAME": "St. Michael's Adult Learning",
+    "ADDRESS": "477 Detroit St",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.06074431,
+    "YCoord": 42.29634786,
+    "FID": 81,
+    "NAME": "Windsor Essex Catholic District School Board",
+    "ADDRESS": "1325 California Ave",
+    "BOARD": "W.E.C.D.S.B."
+  },
+  {
+    "XCoord": -83.04172568,
+    "YCoord": 42.31817017,
+    "FID": 82,
+    "NAME": "University of Windsor - School of Social Work/Centre for Executive and Professional Education",
+    "ADDRESS": "167 Ferry St",
+    "BOARD": "University of Windsor"
+  }
+]

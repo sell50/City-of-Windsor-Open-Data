@@ -1,0 +1,44 @@
+[
+  {
+    "STATION": "Royal Canadian Mounted Police",
+    "ADDRESS": "6080 Riverside Dr. E.",
+    "X": -82.96574139,
+    "Y": 42.33233168
+  },
+  {
+    "STATION": "Windsor Police Headquarters",
+    "ADDRESS": "150 Goyeau St.",
+    "X": -83.03735166,
+    "Y": 42.31914921
+  },
+  {
+    "STATION": "Collision Reporting Centre",
+    "ADDRESS": "3215 Jefferson Blvd.",
+    "X": -82.94207225,
+    "Y": 42.29356073
+  },
+  {
+    "STATION": "COMMUNITY SERVICE UNIT",
+    "ADDRESS": "3312 Sandwich St.",
+    "X": -83.07800358,
+    "Y": 42.29968361
+  },
+  {
+    "STATION": "Armoury and Police Training Centre (Major F.A. Tilston VC)",
+    "ADDRESS": "4007 Sandwich St.",
+    "X": -83.08342293,
+    "Y": 42.28659816
+  },
+  {
+    "STATION": "Children's Safety Village - Office and Classroom",
+    "ADDRESS": "7911 Forest Glade Dr.",
+    "X": -82.92622357,
+    "Y": 42.2961254
+  },
+  {
+    "STATION": "Police Marine Unit - Lakeview Marina",
+    "ADDRESS": "9200 Riverside Dr. E.",
+    "X": -82.92945323,
+    "Y": 42.339664
+  }
+]

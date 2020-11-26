@@ -1,0 +1,30 @@
+[
+  {
+    "FID": 0,
+    "ARENA": "Capri Pizzeria Recreation Complex",
+    "ADDRESS": "2555 Pulford St",
+    "X": -83.035508601,
+    "Y": 42.2579203855
+  },
+  {
+    "FID": 1,
+    "ARENA": "Adie Knox Arena",
+    "ADDRESS": "1551 Wyandotte St W",
+    "X": -83.0531282837,
+    "Y": 42.3068279246
+  },
+  {
+    "FID": 2,
+    "ARENA": "Forest Glade Arena",
+    "ADDRESS": "3205 Forest Glade Dr",
+    "X": -82.9150971889,
+    "Y": 42.3042142342
+  },
+  {
+    "FID": 3,
+    "ARENA": "WFCU Centre",
+    "ADDRESS": "8787 McHugh St",
+    "X": -82.9276320926,
+    "Y": 42.3187335808
+  }
+]

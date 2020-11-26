@@ -1,0 +1,26 @@
+[
+  {
+    "XCoord": -83.06450273,
+    "YCoord": 42.28428054,
+    "FID": 0,
+    "NAME": "Hotel-Dieu Grace Healthcare",
+    "ADDRESS": "1453 PRINCE RD",
+    "FACILITYID": "H-001"
+  },
+  {
+    "XCoord": -82.99720909,
+    "YCoord": 42.30035338,
+    "FID": 1,
+    "NAME": "Windsor Regional Hospital - Metropolitan Campus",
+    "ADDRESS": "1995 LENS AVE",
+    "FACILITYID": "H-002"
+  },
+  {
+    "XCoord": -83.03194994,
+    "YCoord": 42.3084117,
+    "FID": 2,
+    "NAME": "Windsor Regional Hospital - Ouellette Campus",
+    "ADDRESS": "1004 OUELLETTE AVE",
+    "FACILITYID": "H-003"
+  }
+]

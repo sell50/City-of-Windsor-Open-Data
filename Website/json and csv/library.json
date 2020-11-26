@@ -1,0 +1,90 @@
+[
+  {
+    "XCoord": -83.05011566,
+    "YCoord": 42.2969836,
+    "FID": 0,
+    "NAME": "Bridgeview Branch",
+    "ADDRESS": "1295 Campbell Ave",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.04242908,
+    "YCoord": 42.31850631,
+    "FID": 1,
+    "NAME": "Windsor Community Museum",
+    "ADDRESS": "254 Pitt Street W",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -82.97929614,
+    "YCoord": 42.31696446,
+    "FID": 2,
+    "NAME": "Seminole Library",
+    "ADDRESS": "4285 Seminole St",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.02671176,
+    "YCoord": 42.26828849,
+    "FID": 3,
+    "NAME": "Nikola Budimir Memorial Branch",
+    "ADDRESS": "1310 Grand Marais W",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -82.96089855,
+    "YCoord": 42.32978629,
+    "FID": 4,
+    "NAME": "Riverside Branch",
+    "ADDRESS": "6305 Wyandotte St E",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -82.91584269,
+    "YCoord": 42.30305962,
+    "FID": 5,
+    "NAME": "Forest Glade - Optimist Branch",
+    "ADDRESS": "3211 Forest Glade Dr",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.07470865,
+    "YCoord": 42.30152938,
+    "FID": 6,
+    "NAME": "John Muir Branch",
+    "ADDRESS": "363 Mill St",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.03993684,
+    "YCoord": 42.31850222,
+    "FID": 7,
+    "NAME": "Central Resource Library",
+    "ADDRESS": "185 Ouellette Ave",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -82.95323231,
+    "YCoord": 42.29524279,
+    "FID": 8,
+    "NAME": "Fontainebleau Branch",
+    "ADDRESS": "3030 Rivard Ave",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.00450404,
+    "YCoord": 42.29250956,
+    "FID": 9,
+    "NAME": "W.F. Chisholm Branch",
+    "ADDRESS": "1075 Ypres Ave",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  },
+  {
+    "XCoord": -83.07788874,
+    "YCoord": 42.29965136,
+    "FID": 10,
+    "NAME": "Local History Centre",
+    "ADDRESS": "3312 Sandwich Street",
+    "URL": "http://www.windsorpubliclibrary.com/?page_id=126"
+  }
+]
