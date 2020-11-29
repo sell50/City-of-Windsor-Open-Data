@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Hospital</title>
+  </head>
+  <body>
+    <style>
+    th{color:#fff;}
+    </style>
+
+    <table class="table table-striped">
+      <tr  class="bg-info">
+        <th>X</th>
+        <th>Y</th>
+        <th>FID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Facility ID</th>
+      </tr>
+    <tbody id="myTable"></tbody>
+    </table>
+    
+    <script>
+      fetch('./../json/hospital.json').then(
+        response => {
+          response.json().then(
+            data=> {
+              console.log(data);
+              buildTable(data);
+            }
+          )
+        }
+      )
+
+      function buildTable(data){
+        var table = document.getElementById('myTable')
+
+        for (var i = 0; i < data.length; i++){
+          var row = `<tr>
+          <td>${data[i].XCoord}</td>
+          <td>${data[i].YCoord}</td>
+          <td>${data[i].FID}</td>
+          <td>${data[i].NAME}</td>
+          <td>${data[i].ADDRESS}</td>
+          <td>${data[i].FACILITYID}</td>
+          </tr>`
+          table.innerHTML += row
+        }
+      }
+
+    </script>
+  </body>
+</html>
