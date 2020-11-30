@@ -48,6 +48,7 @@ header div a{
 
 header div a:hover {
     color: #ffffff;
+    text-decoration: none;
   }
 
 /***main content***/
@@ -106,6 +107,7 @@ main section a{
 main section a:hover{
     color: #000000;
     background-color: #3caea3;
+    text-decoration: none;
 }
 
 /***footer***/
@@ -170,6 +172,10 @@ footer div a{
     padding-right: 5px;
     border-radius: 10px;
     margin: 5px;
+}
+
+.attribute{
+    font-size: x-small;
 }
 
 /*NAVBAR*/
